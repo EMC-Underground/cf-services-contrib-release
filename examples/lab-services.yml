@@ -1,5 +1,5 @@
 name: cf-services-contrib
-director_uuid: DIRECTOR_UUID   # CHANGE
+director_uuid: 60545ee8-58ae-4f14-9b74-4d240735da90
 ---
 
 releases:
